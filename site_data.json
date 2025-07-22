@@ -1,0 +1,45 @@
+{
+  "business_name": "Lynnwood docter",
+  "description": "Lynnwood Doctor: Expert care with a personal touch. Our dedicated team ensures your health is prioritized through tailored medical services. Experience quality healthcare that's both compassionate and professional.",
+  "services": [
+    {
+      "title": "te",
+      "description": "Discover comprehensive medical care in Lynnwood. Our doctor provides personalized treatment plans, ensuring optimal health and peace of mind. Schedule your consultation today for expert care."
+    }
+  ],
+  "contact_email": "nathangrobler@gmail.com",
+  "phone_number": "0720664498",
+  "business_address": "1 Address",
+  "social_links": [
+    {
+      "name": "Facebook",
+      "url": ""
+    },
+    {
+      "name": "Twitter",
+      "url": ""
+    },
+    {
+      "name": "Instagram",
+      "url": ""
+    }
+  ],
+  "keywords": "key",
+  "pictures": [
+    {
+      "filename": "Techno-Geek.png",
+      "alt_text": "test"
+    },
+    {
+      "filename": "Tower-Night.png",
+      "alt_text": "test"
+    },
+    {
+      "filename": "True Love.jpg",
+      "alt_text": "test"
+    }
+  ],
+  "logo": null,
+  "template_key": "solarys_prime",
+  "current_year": 2025
+}
